@@ -7,13 +7,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
+- OsTicket (Ticketing Software)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -24,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h1>Configuration Steps</h1>
 
 <p>
-  <h2>Agent, Role, Team, and Department Configuration</h2>
+  <h2>Agent Configuration</h2>
 <img src="https://i.imgur.com/cn2m6D3.png" height="80%" width="80%" alt="Agent Configuration"/>
   <h2>Role Configuration</h2>
   <img src="https://i.imgur.com/vbmckyW.png" height="80%" width="80%" alt="Role Configuration"/>
