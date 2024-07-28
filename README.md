@@ -7,7 +7,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h1>Configuration Steps</h1>
 
 <p>
-  <h2>Agent Configuration</h2>
+  <h2>Agent, Role, Team, and Department Configuration</h2>
 <img src="https://i.imgur.com/cn2m6D3.png" height="80%" width="80%" alt="Agent Configuration"/>
   <h2>Role Configuration</h2>
   <img src="https://i.imgur.com/vbmckyW.png" height="80%" width="80%" alt="Role Configuration"/>
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
- <h2>Service Level Agreement</h2>
+ <h2>Service Level Agreement Configuration</h2>
 <img src="https://i.imgur.com/kETj3XL.png" height="80%" width="80%" alt="Service Level Agreement"/>
 </p>
 <p>
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-  <h2>Customer Configuration</h2>
+  <h2>Customer and Help Topics Configuration</h2>
 <img src="https://i.imgur.com/VzGMlRF.png" height="80%" width="80%" alt="Customer Configuration"/>
   <h2>Help Topics Configuration</h2>
 <img src="https://i.imgur.com/jrPnWUc.png" height="80%" width="80%" alt="Help Topics Configuration"/>
